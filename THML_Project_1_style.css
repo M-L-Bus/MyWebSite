@@ -1,0 +1,160 @@
+h1, h2, h3, p {
+  text-align: center;
+  color: rgb(241, 231, 236);
+ /* 
+  font-family: Impact, serif;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-top: 0;
+  */
+}
+body {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa-static.besthdwallpaper.com%2Fa-colorful-field-of-lilies-wallpaper-1680x1260-844_24.jpg&f=1&nofb=1&ipt=889cd02bdbbf44dd5a743765ea787dc17e5f4c44429f111423b255d61fbdca98&ipo=images);
+    /*
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.fineartamerica.com%2Fimages%2Fartworkimages%2Fmediumlarge%2F3%2Flilies-field-at-sunset-painted-digital-art-sandi-oreilly.jpg&f=1&nofb=1&ipt=4816409ebc335ef24a916b5aa926efa1f57d0ad7df82180e28a2174d6a7b3bc9&ipo=images);
+  font-family: sans-serif;
+  font-style: italic;
+*/
+}
+.text-background {
+  width: 80%;
+  background-color: rgb(244, 94, 179);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 45px;
+  margin-bottom: 150px;
+  padding: 20px;
+  max-width: 650px; /* 500 550 600 650 */
+}
+    /*  //  //
+#menu {
+//    width: 300px;
+  width: 80%;
+  background-color: burlywood;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding: 20px;
+  max-width: 500px;
+}
+
+.bottom-line {
+  margin-top: 25px;
+  margin-top: -25px;
+}
+a {
+  color: black;
+}
+a:visited {
+  propertyName: propertyValue;
+  color: grey;
+}
+a:hover {
+  color: brown;
+}
+a:active {
+  color: white;
+}
+.address {
+  margin-bottom: 5px;
+}
+   //     */
+.item p {
+  display: inline-block;
+}
+.flavor {
+  text-align: left;
+  width: 49%;
+}
+.price {
+  text-align: right;
+  width: 49%;
+}
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.img-left {
+  text-align: left;
+  width: -49%;
+  margin-top: -60%;
+  margin-bottom: 45px;
+  margin-left: 25px;
+}
+.text-right {
+  text-align: right;
+  margin-left: auto;
+  width: 50%;
+}
+.hr-1{
+  margin-top: 65px;
+  margin-bottom: 35px;
+}
+
+.img-right {
+  display: block;
+  margin-left: auto;
+  /*
+  display: block;
+  text-align: right;
+  align-self: left;
+  float:right
+  margin:3px
+
+  */
+  margin-top: -40%;
+  margin-bottom: 75px;
+  width: -49%;
+}
+.text-left {
+  text-align: left;
+  margin-right: auto;
+  width: 50%;
+}
+.text-right-1 {
+  text-align: right;
+  margin-left: auto;
+  width: 55%;
+}
+.img-left-1 {
+  text-align: left;
+  margin-right: auto;
+  width: -49%;
+  margin-top: -30%;
+  margin-left: 50px;
+  margin-bottom: -25px;
+}
+
+a {
+  color: rgb(255, 182, 240);
+}
+a:hover {
+  color: rgb(255, 112, 226);
+}
+
+a:active {
+  color: rgb(203, 90, 181);
+}
+
+.hr-2{
+  background-color: rgb(244, 94, 179);
+  border-color: rgb(244, 94, 179);
+  margin-top: 85px;
+  margin-bottom: 85px;
+}
+.empy-text {
+  color: rgb(244, 94, 179);
+  margin-top: 48px; /* 95 48 */
+  margin-bottom: 48px; /* 95 48 */
+}
+.empy-text-1 {
+  color: rgb(244, 94, 179);
+  margin-top: 75px; /* 95 48 */
+  margin-bottom: 75px; /* 95 48 */
+}
